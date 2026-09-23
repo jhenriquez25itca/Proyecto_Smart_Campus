@@ -1,0 +1,8 @@
+id_registro,fecha,id_recurso,hora_inicio,hora_fin,estudiantes_presentes,facultad,horas_uso,horas_estudiante_totales,nombre_recurso,tipo_recurso,capacidad_maxima,porcentaje_ocupacion,estado,prioridad
+1,2026-09-14,201,08:00,10:00,25, ingenieria ,2.0,50.0,Laboratorio Redes Cisco,Laboratorio,35,71.43,Mantenimiento Preventivo,Media
+2,2026-09-14,202,13:00,17:00,15,DISEÑO,4.0,60.0,Sala Mac Animacion,Laboratorio,20,75.0,Actualizacion Software,Alta
+3,2026-09-15,201,09:00,12:00,30,ciencias ,3.0,90.0,Laboratorio Redes Cisco,Laboratorio,35,85.71,Mantenimiento Preventivo,Media
+4,2026-09-15,203,14:00,16:00,10,Ciencias,2.0,20.0,Impresora 3D,Equipamiento,15,66.67,,Ninguna
+5,2026-09-16,204,07:00,12:00,-15,Ingenieria,5.0,100.0,Servidor IA / Big Data,Infraestructura,40,50.0,Reemplazo de Hardware,Alta
+6,2026-09-17,202,11:00,12:00,12,Diseño,1.0,12.0,Sala Mac Animacion,Laboratorio,20,60.0,Actualizacion Software,Alta
+1,2026-09-14,201,08:00,10:00,25, ingenieria ,2.0,50.0,Laboratorio Redes Cisco,Laboratorio,35,71.43,Mantenimiento Preventivo,Media

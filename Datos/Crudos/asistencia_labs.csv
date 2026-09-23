@@ -1,0 +1,7 @@
+id_registro,fecha,id_recurso,hora_inicio,hora_fin,estudiantes_presentes,facultad
+1,2026-09-14,201,08:00,10:00,25,Ingenieria
+2,2026-09-14,202,13:00,17:00,15,Diseño
+3,2026-09-15,201,09:00,12:00,30,Ingenieria
+4,2026-09-15,203,14:00,16:00,10,Ciencias
+5,2026-09-16,204,07:00,12:00,20,Ingenieria
+6,2026-09-17,202,11:00,12:00,12,Diseño
